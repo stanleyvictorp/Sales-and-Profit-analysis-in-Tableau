@@ -29,5 +29,16 @@ The primary objective of this project is to leverage these insightful visualizat
 9. **Top 10 Customers Analysis**
 10. **Top 5 Products Performance**
 
+Please note that these PDFs showcase the visual representations of the analysis performed in Tableau.
+
+## How to Use
+
+As the dataset is not shareable, and the visuals are in PDF format, users can refer to the provided PDFs to get an overview of the insights derived from the analysis. Additionally, to replicate this analysis with your own dataset, you can follow these steps:
+
+1. Obtain access to your dataset in MySQL.
+2. Use Tableau Public or Tableau trial edition to connect to your MySQL database.
+3. Create visualizations similar to those presented in the PDFs using your dataset.
+
+
 
 
